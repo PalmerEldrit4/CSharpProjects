@@ -5,9 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFSession3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="800">
+        Title="MainWindow" Height="600" Width="800" Background= "Beige" >
     <Grid>
-        <Button Content="Enter" HorizontalAlignment="Left" Margin="472,419,0,0" VerticalAlignment="Top" Height="70" Width="137"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="85*"/>
+            <ColumnDefinition Width="38*"/>
+            <ColumnDefinition Width="277*"/>
+        </Grid.ColumnDefinitions>
+        <Button Click="btntest_Click" Content="This is my button" Name="btnTest" HorizontalAlignment="Left" Margin="143,0,0,0" VerticalAlignment="Center" Height="70" Width="164" Grid.ColumnSpan="3"/>
+        <TextBox Height="23" TextWrapping="Wrap" Name="txtTest" Text="" Margin="134,80,20,166" Grid.Column="2"/>
 
     </Grid>
 </Window>

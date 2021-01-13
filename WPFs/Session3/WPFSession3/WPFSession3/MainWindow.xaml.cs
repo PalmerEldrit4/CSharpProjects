@@ -25,5 +25,11 @@ namespace WPFSession3
             InitializeComponent();
         }
 
+        public List<string> people = new List<string>();
+
+        private void btntest_Click(object sender, RoutedEventArgs e)
+        {
+            txtTest.Text = "Hello World";
+        }
     }
 }
