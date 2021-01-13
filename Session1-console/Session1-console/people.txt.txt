@@ -1,0 +1,3 @@
+TOTO;50;Mont
+POP;40;ROME
+JOJO;30;Quebec

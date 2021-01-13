@@ -1,0 +1,7 @@
+C:\Users\Vadimus\Documents\CSharpProjects\Session1-console\Session1-console\bin\Debug\Session1-console.exe.config
+C:\Users\Vadimus\Documents\CSharpProjects\Session1-console\Session1-console\bin\Debug\Session1-console.exe
+C:\Users\Vadimus\Documents\CSharpProjects\Session1-console\Session1-console\bin\Debug\Session1-console.pdb
+C:\Users\Vadimus\Documents\CSharpProjects\Session1-console\Session1-console\obj\Debug\Session1-console.csprojAssemblyReference.cache
+C:\Users\Vadimus\Documents\CSharpProjects\Session1-console\Session1-console\obj\Debug\Session1-console.csproj.CoreCompileInputs.cache
+C:\Users\Vadimus\Documents\CSharpProjects\Session1-console\Session1-console\obj\Debug\Session1-console.exe
+C:\Users\Vadimus\Documents\CSharpProjects\Session1-console\Session1-console\obj\Debug\Session1-console.pdb
