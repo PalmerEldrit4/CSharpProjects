@@ -17,7 +17,7 @@ Title="Basic" Height="400" Width="400">
                    VerticalAlignment="Top" Width="160"/>
         <Label Content="Preferred Temperature" HorizontalAlignment="Left" HorizontalContentAlignment="Left" Margin="10,130,0,0" 
                    VerticalAlignment="Top" Width="182"/>
-        <Button Content="Register Me" HorizontalAlignment="Center" Height="34" Margin="122,224,120,0" VerticalAlignment="Top" Width="94"/>
+        <Button Click="Button_Click" Content="Register Me" HorizontalAlignment="Center" Height="34" Margin="122,224,120,0" VerticalAlignment="Top" Width="94"/>
         <TextBox HorizontalAlignment="Left" Name="txtName" Height="23" Margin="107,13,0,0" TextWrapping="Wrap"
                  Text=""  VerticalAlignment="Top" Width="260"/>
         <RadioButton GroupName="age" Name="rbtnBelow18" Content="Below 18" HorizontalAlignment="Left" Margin="107,51,0,0" VerticalAlignment="Top"/>
@@ -26,13 +26,13 @@ Title="Basic" Height="400" Width="400">
         <CheckBox Name="chboxCat" Content="Cat" HorizontalAlignment="Left" Margin="105,81,0,0"  VerticalAlignment="Top"/>
         <CheckBox Name="chboxDog" Content="Dog" HorizontalAlignment="Left" Margin="205,81,0,0"  VerticalAlignment="Top"/>
         <CheckBox Name="chboxOther" Content="Other" HorizontalAlignment="Left" Margin="300,84,43,0" VerticalAlignment="Top"/>
-        <ComboBox HorizontalAlignment="Left" Margin="181,104,0,0" VerticalAlignment="Top" Width="200">
+        <ComboBox Name="cmbContinents" HorizontalAlignment="Left" Margin="181,104,0,0" VerticalAlignment="Top" Width="200">
             <ComboBoxItem IsSelected="True">Eurasia</ComboBoxItem>
             <ComboBoxItem>North America</ComboBoxItem>
             <ComboBoxItem>South America</ComboBoxItem>
             <ComboBoxItem>Australia</ComboBoxItem>
         </ComboBox>
-        <Slider HorizontalAlignment="Left" Margin="165,140,0,0" SmallChange="1" Value="22" TickPlacement="Both" TickFrequency="1" VerticalAlignment="Top" Width="210"/>
+        <Slider Name="lblTemp" HorizontalAlignment="Left" Margin="165,140,0,0" SmallChange="1" Value="22" TickPlacement="Both" TickFrequency="1" VerticalAlignment="Top" Width="210"/>
 
     </Grid>
 </Window>
