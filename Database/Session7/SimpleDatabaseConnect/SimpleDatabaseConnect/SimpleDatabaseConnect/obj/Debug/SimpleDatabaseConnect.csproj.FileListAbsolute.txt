@@ -1,0 +1,7 @@
+C:\Users\Vadimus\Documents\CSharpProjects\Database\Session7\SimpleDatabaseConnect\SimpleDatabaseConnect\SimpleDatabaseConnect\bin\Debug\SimpleDatabaseConnect.exe.config
+C:\Users\Vadimus\Documents\CSharpProjects\Database\Session7\SimpleDatabaseConnect\SimpleDatabaseConnect\SimpleDatabaseConnect\bin\Debug\SimpleDatabaseConnect.exe
+C:\Users\Vadimus\Documents\CSharpProjects\Database\Session7\SimpleDatabaseConnect\SimpleDatabaseConnect\SimpleDatabaseConnect\bin\Debug\SimpleDatabaseConnect.pdb
+C:\Users\Vadimus\Documents\CSharpProjects\Database\Session7\SimpleDatabaseConnect\SimpleDatabaseConnect\SimpleDatabaseConnect\obj\Debug\SimpleDatabaseConnect.csprojAssemblyReference.cache
+C:\Users\Vadimus\Documents\CSharpProjects\Database\Session7\SimpleDatabaseConnect\SimpleDatabaseConnect\SimpleDatabaseConnect\obj\Debug\SimpleDatabaseConnect.csproj.CoreCompileInputs.cache
+C:\Users\Vadimus\Documents\CSharpProjects\Database\Session7\SimpleDatabaseConnect\SimpleDatabaseConnect\SimpleDatabaseConnect\obj\Debug\SimpleDatabaseConnect.exe
+C:\Users\Vadimus\Documents\CSharpProjects\Database\Session7\SimpleDatabaseConnect\SimpleDatabaseConnect\SimpleDatabaseConnect\obj\Debug\SimpleDatabaseConnect.pdb
